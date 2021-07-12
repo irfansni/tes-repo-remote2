@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tes push ke git dengan ssh final</title>
+    <title>Tes push ke git dan update ke remote server cpanel</title>
 </head>
 <body>
     <h1>tes rmeote dari lokal ke origin</h1>
