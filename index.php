@@ -4,14 +4,10 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tes remote 2</title>
+    <title>Tes push ke git dengan ssh final</title>
 </head>
 <body>
     <h1>tes rmeote dari lokal ke origin</h1>
     <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Accusamus repellendus, rem perspiciatis in explicabo corporis velit est dolores dolorem cumque vero at enim, sunt voluptate ut officiis ipsam natus aperiam.</p>
-    <h4>Testing new commit</h4>
-    <h3>Testing koneksi menggunakan ssh</h3>
-    <h4>Testing ulang SSH koneksi</h4>
-    <h5>Testing lagi dengan ganti mode ke ssh</h5>
 </body>
 </html>
