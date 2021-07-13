@@ -9,5 +9,6 @@
 <body>
     <h1>tes rmeote dari lokal ke origin</h1>
     <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Accusamus repellendus, rem perspiciatis in explicabo corporis velit est dolores dolorem cumque vero at enim, sunt voluptate ut officiis ipsam natus aperiam.</p>
+    <h2>Ini adalah percobaan push dan pull dengan 2 partisipan</h2>
 </body>
 </html>
